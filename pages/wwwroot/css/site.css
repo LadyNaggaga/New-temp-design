@@ -4,13 +4,13 @@ for details on configuring this project to bundle and minify static web assets. 
 
 .navbar{
   width: 100%;
-  padding-right: var(--bs-gutter-x,.999rem);
-  padding-left: var(--bs-gutter-x,.999rem);
   margin-right: auto;
   margin-left: auto;
 }
 
 a.navbar-brand {
+  padding-left: 3rem;
+  padding-right: 3rem;
   white-space: normal;
   text-align: center;
   word-break: break-all;
